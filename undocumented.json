@@ -1,0 +1,89 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Client.swift",
+      "line": 26,
+      "symbol": "Client.shouldPrintWebSocketLog",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Client.swift",
+      "line": 27,
+      "symbol": "Client.shouldPrintWebSocketTrace",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Client.swift",
+      "line": 28,
+      "symbol": "Client.userDisconnected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Internal/ClientPrivate.swift",
+      "line": 119,
+      "symbol": "Client.websocketDidReceiveData(socket:data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Internal/ClientPrivate.swift",
+      "line": 123,
+      "symbol": "Client.websocketDidReceiveMessage(socket:text:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Internal/ClientPrivate.swift",
+      "line": 131,
+      "symbol": "Client.websocketDidConnect(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Internal/ClientPrivate.swift",
+      "line": 137,
+      "symbol": "Client.websocketDidDisconnect(socket:error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/Internal/Errors.swift",
+      "line": 13,
+      "symbol": "LiveQueryErrors",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/ObjCCompat.swift",
+      "line": 117,
+      "symbol": "ObjCCompat.Subscription.SubscribeHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/ObjCCompat.swift",
+      "line": 118,
+      "symbol": "ObjCCompat.Subscription.ErrorHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/ObjCCompat.swift",
+      "line": 119,
+      "symbol": "ObjCCompat.Subscription.EventHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX/Sources/ParseLiveQuery/ObjCCompat.swift",
+      "line": 120,
+      "symbol": "ObjCCompat.Subscription.ObjectHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/travis/build/parse-community/ParseLiveQuery-iOS-OSX"
+}
